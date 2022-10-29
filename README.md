@@ -1,3 +1,3 @@
-<b>Faworum</b>
+<b>DinSocial</b>
 
 Prosty portal społecznościowy
