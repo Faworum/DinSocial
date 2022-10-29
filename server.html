@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <div></div>
+    <script>
+      const div = document.querySelector("div")
+      new URLSearchParams(window.location.search).forEach((value, name) => {
+        div.append(`${name}: ${value} `)
+      })
+    </script>
+  </body>
+</html>
